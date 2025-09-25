@@ -3,7 +3,6 @@
 senior at [wellesley college](https://www.wellesley.edu/), currently based in the boston area
 studying computer science, with an interest in cinema and media studies
 
-# 💫 About Me:
 currently i'm...
 hanging out at mit's [personal robots group](https://www.media.mit.edu/groups/personal-robots/overview/) with [jibo](https://robotsguide.com/robots/jibo)
 building more projects as seen on my [website](https://dieuxlinh.com/)
