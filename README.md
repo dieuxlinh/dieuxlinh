@@ -1,18 +1,18 @@
 ## hi, i'm linh!
 
-senior at [wellesley college](https://www.wellesley.edu/), currently based in the boston area
+senior at [wellesley college](https://www.wellesley.edu/), currently based in the boston area<br>
 studying computer science, with an interest in cinema and media studies
 
-currently i'm...
-hanging out at mit's [personal robots group](https://www.media.mit.edu/groups/personal-robots/overview/) with [jibo](https://robotsguide.com/robots/jibo)
-building more projects as seen on my [website](https://dieuxlinh.com/)
-pursuing the [intersection of education, tech, and policy](https://dl.acm.org/doi/10.1145/3713043.3727057)
-[reading](https://www.dieuxlinh.com/reading/reading.html) my way through my endless to-be-read list
-reminiscing on my [semester abroad](https://www.dieuxlinh.com/abroad/study-abroad.html)
-[making art](https://www.dieuxlinh.com/art/making-art.html) and [capturing everything](https://www.dieuxlinh.com/art/capture-it.html)
-[thinking about a lot](https://www.dieuxlinh.com/thinking/decks.html) — see for yourself
-[waiting to hear](dieuxlinh@gmail.com) what you have to say
-and lastly, extremely happy that you’re here.
+currently i'm...<br>
+hanging out at mit's [personal robots group](https://www.media.mit.edu/groups/personal-robots/overview/) with [jibo](https://robotsguide.com/robots/jibo)<br>
+building more projects as seen on my [website](https://dieuxlinh.com/)<br>
+pursuing the [intersection of education, tech, and policy](https://dl.acm.org/doi/10.1145/3713043.3727057)<br>
+[reading](https://www.dieuxlinh.com/reading/reading.html) my way through my endless to-be-read list<br>
+reminiscing on my [semester abroad](https://www.dieuxlinh.com/abroad/study-abroad.html)<br>
+[making art](https://www.dieuxlinh.com/art/making-art.html) and [capturing everything](https://www.dieuxlinh.com/art/capture-it.html)<br>
+[thinking about a lot](https://www.dieuxlinh.com/thinking/decks.html) — see for yourself<br>
+[waiting to hear](dieuxlinh@gmail.com) what you have to say<br>
+and lastly, extremely happy that you’re here.<br>
 
 
 ## how to find me:
